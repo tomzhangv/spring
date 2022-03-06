@@ -1,6 +1,5 @@
-package com.mjp.test;
+package com.mjp.beandemo;
 
-import com.mjp.MyApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
